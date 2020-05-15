@@ -1,0 +1,19 @@
+Machine learning with python!!!
+
+
+Steps involved-
+1. Import the data,
+2. Clean the data,
+3. Split the data into training/test sets,
+4. Create a model,
+5. Train a model,
+6. Make the predictions,
+7. Evaluate, and improve.
+
+Libraries and Tools-
+
+Some of the popular libraries are-
+1. Numpy,
+2. Pandas,
+3. MatPlotLib,
+4. Scikit-Learn
